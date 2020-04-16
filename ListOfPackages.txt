@@ -1,0 +1,23 @@
+Installing packages to run: 
+pip install {package}
+
+#Model packages.
+keras - Version: 2.3.1
+tensorflow - Version: 1.14.0
+
+
+#Camera packages.
+'cv2' -> OpenCV-python - Version: 4.2.0.34
+
+
+
+
+
+Versions:
+pip show {package}
+
+
+
+
+
+
