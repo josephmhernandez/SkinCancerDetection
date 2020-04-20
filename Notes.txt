@@ -1,0 +1,2 @@
+usb microphone automation input: 
+https://maker.pro/raspberry-pi/tutorial/the-best-voice-recognition-software-for-raspberry-pi
